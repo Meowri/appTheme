@@ -153,4 +153,11 @@ body{
   #main-footer{
     background: #56a79a;
     color: #fff;
-  }  
+  } 
+
+  /* GLOBAL MARGIN FOR PAGES */
+
+#page{
+    margin-bottom: 40px;
+  }
+  
